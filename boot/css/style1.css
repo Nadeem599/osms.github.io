@@ -1,0 +1,30 @@
+body{
+     padding: 0px;
+     margin: 0px;
+}
+.navbar-brand{
+     font-family: 'pacifico';
+     font-size: 2em;
+     font-weight: bold;
+}
+.navbar #collapsibleNavbar .navbar-nav .nav-item a{
+     color: #fff;
+}
+.navbar #collapsibleNavbar .navbar-nav .nav-item a:hover{
+     color: #f0aab1;
+}
+.navbar .navbar-text{
+     color: wheat
+}
+.back-img{
+
+
+border-radius: 0px;
+
+background-attachment: fixed;
+
+background-position: center center;
+}
+.jumbotron{
+     border-radius: 0px;
+}
